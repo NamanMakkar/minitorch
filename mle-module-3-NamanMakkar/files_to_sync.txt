@@ -1,0 +1,10 @@
+minitorch/tensor_data.py
+minitorch/tensor_functions.py
+minitorch/tensor_ops.py
+minitorch/operators.py
+minitorch/module.py
+minitorch/autodiff.py
+minitorch/module.py
+project/run_manual.py
+project/run_scalar.py
+project/run_tensor.py
